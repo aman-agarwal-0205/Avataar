@@ -1,0 +1,21 @@
+{
+  "prompts": [
+      "beautiful landscape, mountains in the background",
+      "luxury bedroom interior",
+      "Beautiful snowy mountains",
+      "luxurious bedroom interior",
+      "walls with cupboard",
+      "room with chair",
+      "House in the forest"
+
+  ],
+  "depth_maps": [
+      "/kaggle/input/depth-map-avataar/1.png",
+      "/kaggle/input/depth-map-avataar/2.png",
+      "/kaggle/input/depth-map-avataar/3.png",
+      "/kaggle/input/depth-map-avataar/4.png",
+      "/kaggle/input/depth-map-avataar/5.png",
+      "/kaggle/input/depth-map-avataar/6.npy",
+      "/kaggle/input/depth-map-avataar/7.npy"
+  ]
+}
