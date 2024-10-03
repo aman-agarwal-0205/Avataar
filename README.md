@@ -44,6 +44,7 @@ if not os.path.exists(output_folder):
 The generated images can viewed in [Output](<generated image>).
 
 The generational latency is as follows:
+
 ![Generational Latency](https://github.com/aman-agarwal-0205/Avataar/raw/main/generational%20latency.png)
 
 The depthmap generated after modifying the aspect ratio can be viewed in [Modifyed Aspect Ratio](aspect_Ratio).
