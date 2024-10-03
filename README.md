@@ -50,4 +50,4 @@ The generational latency is as follows:
 The depthmap generated after modifying the aspect ratio can be viewed in [Modifyed Aspect Ratio](aspect_Ratio).
 
 ## Observations
-The obersvations are listed in the attached [report](<Project Report of Image Generation Using ControlNet and StableDiffusers.pdf>).
+The obersvations are listed in the attached [report](<Project Report.pdf>).
